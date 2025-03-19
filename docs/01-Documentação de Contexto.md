@@ -25,22 +25,34 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+O aumento do sedentarismo infantil e da dependência digital têm sido amplamente discutido em estudos acadêmicos e relatórios de saúde pública.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+Segundo a Organização Mundial da Saúde (OMS), crianças devem ter um limite diário de exposição às telas e um tempo mínimo de atividade física para um desenvolvimento saudável.  É imprescindível equilibrar a rotina doméstica e estabelecer atividades múltiplas, para entreter, educar e desenvolver as habilidades dos filhos. (Sociedade Brasileira de Pediatria, 2020).
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Os jogos quando utilizados de maneira educacional podem ter o potencial de estimular e desenvolver outras habilidades criativas e educativas nas crianças e adolescentes (E. Eisenstein et al., 2021).
+
+Na gamificação, as pessoas são motivadas a alterarem os seus comportamentos, desenvolvendo habilidades e estimulando a inovação.  Uma maneira de incentivá-las é envolver desafios práticos, e encorajá-las à medida que atingem novos níveis e mantê-las envolvidas para atingir o melhor resultado. (T. Matos, 2022). 
+
+Nesse contexto, as soluções gamificadas vêm ganhando espaço na educação e desenvolvimento infantil, pois combinam motivação, desafios e recompensas, tornando a aprendizagem e a construção de hábitos saudáveis mais atraentes (L. Santos, 2014)
+
+Este projeto visa fornecer uma ferramenta inovadora que auxilia os pais nesse desafio, aproveitando o interesse natural das crianças por jogos para promover mudanças positivas.
+
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+Embora os desafios relacionados ao tempo excessivo em telas e à falta de hábitos saudáveis possam afetar crianças de diversas idades, este projeto foca em crianças e adolescentes entre 6 e 14 anos, bem como seus pais e responsáveis. Essa faixa etária foi escolhida por ser um período crucial para o desenvolvimento de habilidades cognitivas, emocionais e sociais. A infância e o início da adolescência são fases sensíveis para a formação de hábitos e valores (CRONE; DAHL, 2020). Além disso, a gamificação é particularmente eficaz nessa faixa etária, pois crianças e adolescentes são mais receptivos a sistemas de recompensas e desafios interativos, que estimulam o engajamento em atividades produtivas (SAILER; HOMNER, 2020). 
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+O perfil dos pais e responsáveis permeia as seguintes questões:
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+* Dificuldades em encontrar formas atrativas de incentivar hábitos saudáveis sem gerar resistência ou conflitos.
+* Preocupação com o tempo excessivo dos filhos no meio virtual, mas não sabem como direcionar o uso da tecnologia de forma produtiva.
+* Busca por ferramentas para fortalecer o vínculo familiar e estimular atividades conjuntas.
+* Desafio em equilibrar o incentivo à autonomia dos filhos com a necessidade de estabelecer regras claras sobre o uso de telas.
+  
+Já das crianças e adolescentes:
+
+* Passam grande parte do tempo livre em dispositivos eletrônicos, muitas vezes sem supervisão.
+* Maior engajamento quando há recompensas ou desafios envolventes (SAILER; HOMNER,2020), que destacam a eficácia da gamificação em motivar jovens a realizar tarefas que, de outra forma, pareceriam desinteressantes.
+* Pouco interesse em atividades domésticas e educativas sem algum tipo de incentivo externo.
+* Preferência por jogos e desafios interativos, mas nem sempre têm acesso a opções educativas e envolventes.
+
