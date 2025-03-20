@@ -1,27 +1,23 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+<p align="justify">A infância e a adolescência são fases cruciais para o desenvolvimento de habilidades cognitivas, físicas, emocionais e sociais. No entanto, envolver o público juvenil em hábitos saudáveis e produtivos para o corpo e mente se mostra uma tarefa difícil. Como consequência dessa dificuldade, crescer sem contato suficiente com responsabilidade, organização, interação social, educação financeira, atividade física, dentre outros elementos importantes da formação humana, impacta amplamente a integridade mental e corporal dos jovens, bem como prejudica a sua vida adulta. 
+
+<p align="justify">É evidente que, tanto o afastamento das questões supracitadas, como também a falta de interesse e motivação nelas, se deve à crescente digitalização da vida cotidiana. Muitas crianças e adolescentes fazem uso excessivo do meio virtual, focadas constantemente em conteúdos como jogos, redes sociais e vídeos, dedicando dessa maneira pouco ou nenhum tempo às práticas mais produtivas. 
+
+<p align="justify">Diante desse desafio, este projeto propõe uma solução digital com uma grande aliada da educação moderna: a gamificação. Transformando a rotina infantil em uma espécie de jogo, a aplicação web incentiva crianças e adolescentes a realizarem atividades benéficas por meio da ludicidade e de um sistema de recompensas, se aproveitando do interesse deles em plataformas digitais. O website funcionará como um intermediador entre pais e filhos, oferecendo um ambiente onde os responsáveis possam criar desafios e prêmios, além de  acompanhar o progresso dos pequenos, tornando o processo educativo mais atrativo e engajador. 
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+<p align="justify">O projeto surge em um cenário de desafios contemporâneos na educação infantil, onde o uso descontrolado de dispositivos eletrônicos por crianças e adolescentes tem causado problemas como sedentarismo, isolamento social, desorganização, ansiedade, impactos na saúde mental e falta de responsabilidade. Embora os pais reconheçam esses desafios, muitos não sabem como equilibrar o uso saudável da tecnologia com a introdução de hábitos positivos. Além disso, métodos tradicionais de incentivo costumam ser pouco atraentes para os jovens, tornando-se ineficazes. 
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+<p align="justify">O objetivo geral do projeto é desenvolver um sistema de gamificação que auxilie pais e filhos a equilibrar o uso da tecnologia, promovendo hábitos saudáveis, organização, responsabilidade e interação familiar de forma lúdica e motivadora. 
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Como objetivos específicos, destacam-se:
+
+* <p align="justify"> Criar um um sistema de pontuação e conquistas que utilize gamificação para estimular crianças e adolescentes a desenvolverem hábitos saudáveis e produtivos, principalmente àqueles de fora do meio digital, e ainda mantendo-se motivadas por desafios e recompensas personalizados. 
+* <p align="justify"> Implementar um sistema de gestão de atividades e metas, permitindo que os pais cadastrem e acompanhem as tarefas dos filhos, aprovando e contabilizando seu progresso. Além de definir objetivos que ajudem a criança a criar senso de comprometimento e prêmios compráveis, provendo noções de educação financeira.
+* <p align="justify"> Desenvolver uma interface de administração que incentive a autonomia das crianças, por meio do autogerenciamento dos seus afazeres, conquistas e desafios.
 
 ## Justificativa
 
