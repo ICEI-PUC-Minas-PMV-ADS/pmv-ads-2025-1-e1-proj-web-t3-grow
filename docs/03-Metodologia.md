@@ -9,9 +9,9 @@ Para garantir a organização e a eficiência no desenvolvimento do projeto, a e
 
 A equipe está organizada da seguinte forma:
 <ul>
- <li>**Scrum Master:** Amanda Maria Felipe Severo</li>
- <li>**Product Owner:** Rodrigo Andrade da Silva</li>
- <li>**Equipe de Desenvolvimento:** Amanda Maria Felipe Severo, Caroline Oliveira Neves, Edna dos Santos Martins, Fernanda Cunha Silva, Naiara Andrade Rodrigues de Oliveira, Rodrigo Andrade da Silva  </li>
+ <li>Scrum Master: Amanda Maria Felipe Severo</li>
+ <li>Product Owner: Rodrigo Andrade da Silva</li>
+ <li>Equipe de Desenvolvimento:Amanda Maria Felipe Severo, Caroline Oliveira Neves, Edna dos Santos Martins, Fernanda Cunha Silva, Naiara Andrade Rodrigues de Oliveira, Rodrigo Andrade da Silva  </li>
 </ul>
 
 ### Processo
