@@ -1,26 +1,54 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
+## Perfis de Usuários
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
+<table>
+<tbody> 
+<tr> 
+<th colspan="2">Perfil 1: Pais/Responsáveis </th> 
+</tr> 
+ <tr> 
+ <td width="150px"><b>DEscrição</b></td> 
+  <td width+"600px"> 
+   Pais ou responsáveis com filhos entre 6 e 14 anos 
+  </td> 
+  </tr>
+ <tr>
+  <td><b>Necessidades</b></td>
+  <td>
+1. Acompanhar e incentivar hábitos saudáveis nos filhos de forma lúdica e organizada. 
+2. Interface simples e de fácil navegação. 
+3. Gerenciar as tarefas dos filhos e suas recompensas. 
+4. Comunicação clara e objetiva que auxilie na interação com as crianças. 
+5. Dar feedback positivo ou negativo aos filhos. 
+  </td>
+ </tr>
+</tbody>
+</table>
 
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+<table>
+ <tbody>
+  <tr>
+   <th colspan="2">Perfil 2: Filho(a) </th> 
+  </tr>
+  <tr>
+   <td width="150xp"><b<Descrição</b></b>/td>
+    <td width="600xp">
+     Filho(a) entre 6 e 14 anos 
+    </td>
+  </tr>
+  <tr> 
+  <td><b>Necessidades</b></td>
+   <td>
+1. Desafios motivadores e recompensas que incentivem a participação contínua. 
+2. Se divertir fazendo suas atividades. 
+3. Poder gerenciar e mostrar aos pais sua rotina. 
+4. Obter hábitos e conhecimentos saudáveis
+   </td>
+  </tr>
+ </tbody>
+</table>
 
-## Personas
-
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
-
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
-
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
 
 ## Histórias de Usuários
 
