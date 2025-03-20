@@ -8,7 +8,7 @@
 <th colspan="2">Perfil 1: Pais/Responsáveis </th> 
 </tr> 
  <tr> 
- <td width="150px"><b>DEscrição</b></td> 
+ <td width="150px"><b>Descrição</b></td> 
   <td width+"600px"> 
    Pais ou responsáveis com filhos entre 6 e 14 anos 
   </td> 
@@ -32,7 +32,7 @@
    <th colspan="2">Perfil 2: Filho(a) </th> 
   </tr>
   <tr>
-   <td width="150xp"><b<Descrição</b></b>/td>
+  <td width="150px"><b>Descrição</b></td> 
     <td width="600xp">
      Filho(a) entre 6 e 14 anos 
     </td>
