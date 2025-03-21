@@ -9,7 +9,7 @@
 </tr> 
  <tr> 
  <td width="150px"><b>Descrição</b></td> 
-  <td width+"600px"> 
+  <td width="600px"> 
    Pais ou responsáveis com filhos entre 6 e 14 anos 
   </td> 
   </tr>
