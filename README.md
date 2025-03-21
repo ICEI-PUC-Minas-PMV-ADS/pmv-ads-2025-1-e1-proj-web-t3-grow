@@ -11,7 +11,7 @@ O objetivo geral do projeto é desenvolver um sistema de gamificação que auxil
 
 ## Integrantes 🤝
 
-* Teste Nome
+* Amanda Maria Felipe Severo
 * Caroline Oliveira Neves
 * Edna dos Santos Martins
 * Fernanda Cunha Silva
