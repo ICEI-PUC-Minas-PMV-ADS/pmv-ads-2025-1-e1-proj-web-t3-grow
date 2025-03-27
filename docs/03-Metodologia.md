@@ -13,7 +13,7 @@ A equipe está organizada da seguinte forma:
  <li>Product Owner: Rodrigo Andrade da Silva</li>
  <li>Equipe de Desenvolvimento:Amanda Maria Felipe Severo, Caroline Oliveira Neves, Edna dos Santos Martins, Fernanda Cunha Silva, Naiara Andrade Rodrigues de Oliveira, Rodrigo Andrade da Silva  </li>
 </ul>
-
+ 
 ### Processo
 
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o GitHub, estruturado com as seguintes listas: 
@@ -27,7 +27,10 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
   <li>Done: nesta lista são colocadas as tarefas finalizadas e as que passaram pelos testes e controle de qualidade, prontas para serem entregues aos usuários.</li>
  </ul>
 
- O quadro kanban do grupo no GitHub está disponível no link https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/1839
+ O quadro kanban do grupo no GitHub está disponível no link https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/1839 e é apresentado, no estado atual, na figura abaixo:
+
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2025-1-e1-proj-web-t3-grow/blob/main/docs/img/Kanban_grow.png?raw=true">
+    <figcaption>Figura 1- Tela do kanban no GitHub utilizada pelo grupo</figcaption>
 
  <h3>Etiquetas</h3>
 <p>As tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:</p>
